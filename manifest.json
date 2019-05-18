@@ -1,0 +1,15 @@
+{
+    "name": "background",
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "description": "让用户可以自定义空白页的背景图",
+    "page_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "default.png",
+            "48": "default.png",
+            "128": "default.png"
+        },
+        "default_title": "change my background"
+    }
+}
